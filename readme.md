@@ -80,7 +80,7 @@ Falls noch weitere Informationen oder Änderungen erforderlich sind, lassen Sie 
 
 ## Overview
 
-This bot possesses the email addresses of over 200 real estate management companies in Berlin. It generates the salutation automatically based on the name. If no contact person is available, "Dear Sir or Madam" is used.
+This bot possesses the email addresses of over 200 real estate management companies in Berlin. It generates the salutation automatically based on the name. If no contact person is available, "Sehr geehrte Damen und Herren" is used. Sidenote: If you want to send emails in english please adjust the part "anrede" in `genere_emails.py`
 
 ## Steps for Usage
 
