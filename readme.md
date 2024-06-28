@@ -1,4 +1,4 @@
-# Berlin_Immo_Mailer README
+# Berlin_Immo_Mailer
 
 ## **English version below**
 
