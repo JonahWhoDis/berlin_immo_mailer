@@ -15,7 +15,7 @@ directory_path = "output"
 sent_directory_path = os.path.join(directory_path, "sent")
 amount_to_send = 25
 wait_min = 60
-wait_max = 180
+wait_max = 120
 
 # Ensure the "sent" directory exists
 if not os.path.exists(sent_directory_path):
