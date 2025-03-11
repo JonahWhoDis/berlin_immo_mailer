@@ -8,9 +8,9 @@ import shutil
 import logging
 
 # Configuration
-sender_email = "YourEmailHandle" #without @gmail.com 
-password = "APP-PASSWORD" # See Readme how to get it
-email_subject = "The subject of the email"
+sender_email = "jonahgrosshanten@gmail.com" #without @gmail.com 
+password = "ampi oewl bepk znuz" # See Readme how to get it
+email_subject = "Wohnungsbewerbung – 1300 € Warmmiete, zuverlässiger Mieter (Jonah Großhanten)"
 directory_path = "output"
 sent_directory_path = os.path.join(directory_path, "sent")
 amount_to_send = 25
@@ -66,9 +66,10 @@ def main():
             # Move the sent email file to the "sent" directory
             shutil.move(file_path, os.path.join(sent_directory_path, filename))
             logging.info(f"Moved {filename} to {sent_directory_path}")
-            if amount_to_send >= 25:
-                logging.info("Reached the limit of 25 emails. Stopping the application.")
+            if count >= amount_to_send:
+                logging.info(f"Reached the limit of {amount_to_send} emails. Stopping the application.")
                 break
+
 
             # Wait for a random time before sending the next email
             wait_time = waiting()

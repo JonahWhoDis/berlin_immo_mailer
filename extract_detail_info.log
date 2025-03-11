@@ -1,0 +1,216 @@
+2025-03-11 11:27:15,222 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10433485/ (eintrag_id: 10433485)
+2025-03-11 11:27:15,505 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10433485/
+2025-03-11 11:27:15,534 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10433485/
+2025-03-11 11:27:15,537 - INFO - Extracted company name from <h1>: SPARDA Immobilien GmbH
+2025-03-11 11:27:15,537 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10433485/
+2025-03-11 11:27:16,542 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/101049981/ (eintrag_id: 101049981)
+2025-03-11 11:27:16,741 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/101049981/
+2025-03-11 11:27:16,767 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/101049981/
+2025-03-11 11:27:16,768 - INFO - Extracted company name from <h1>: Schulenburg Immobilien GmbH
+2025-03-11 11:27:16,768 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/101049981/
+2025-03-11 11:27:17,769 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/1024877/ (eintrag_id: 1024877)
+2025-03-11 11:27:17,871 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/1024877/
+2025-03-11 11:27:17,892 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/1024877/
+2025-03-11 11:27:17,892 - INFO - Extracted company name from <h1>: Erich Rohlffs Immobilien GmbH
+    Hausverwaltung & Immobilienvermittlung
+2025-03-11 11:27:17,892 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/1024877/
+2025-03-11 11:27:18,893 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10403946/ (eintrag_id: 10403946)
+2025-03-11 11:27:19,067 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10403946/
+2025-03-11 11:27:19,090 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10403946/
+2025-03-11 11:27:19,090 - INFO - Extracted company name from <h1>: Axel Schneider Immobilien GmbH & Co. KG
+2025-03-11 11:27:19,090 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10403946/
+2025-03-11 11:27:20,092 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/101007386/ (eintrag_id: 101007386)
+2025-03-11 11:27:20,202 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/101007386/
+2025-03-11 11:27:20,220 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/101007386/
+2025-03-11 11:27:20,221 - INFO - Extracted company name from <h1>: Weichenhain Immobilien
+2025-03-11 11:27:20,221 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/101007386/
+2025-03-11 11:27:21,226 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10877765/ (eintrag_id: 10877765)
+2025-03-11 11:27:21,452 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10877765/
+2025-03-11 11:27:21,471 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10877765/
+2025-03-11 11:27:21,471 - INFO - Extracted company name from <h1>: Hansen & Hansen Immobilien Kontor
+2025-03-11 11:27:21,471 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10877765/
+2025-03-11 11:27:22,474 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10810463/ (eintrag_id: 10810463)
+2025-03-11 11:27:22,671 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10810463/
+2025-03-11 11:27:22,691 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10810463/
+2025-03-11 11:27:22,692 - INFO - Extracted company name from <h1>: Wentzel Dr. Vertriebs GmbH
+2025-03-11 11:27:22,692 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10810463/
+2025-03-11 11:27:23,693 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10236567/ (eintrag_id: 10236567)
+2025-03-11 11:27:23,873 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10236567/
+2025-03-11 11:27:23,892 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10236567/
+2025-03-11 11:27:23,892 - INFO - Extracted company name from <h1>: Jacobi Immobilien KG (GmbH & Co.)
+2025-03-11 11:27:23,892 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10236567/
+2025-03-11 11:27:24,893 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10413704/ (eintrag_id: 10413704)
+2025-03-11 11:27:25,174 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10413704/
+2025-03-11 11:27:25,198 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10413704/
+2025-03-11 11:27:25,199 - INFO - Extracted company name from <h1>: Hamburger Volksbank Immobilien GmbH
+2025-03-11 11:27:25,199 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10413704/
+2025-03-11 11:27:26,199 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10228110/ (eintrag_id: 10228110)
+2025-03-11 11:27:26,302 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10228110/
+2025-03-11 11:27:26,322 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10228110/
+2025-03-11 11:27:26,322 - INFO - Extracted company name from <h1>: Leonhard Immobilien e.K.
+2025-03-11 11:27:26,322 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10228110/
+2025-03-11 11:27:27,328 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10492810/ (eintrag_id: 10492810)
+2025-03-11 11:27:27,781 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10492810/
+2025-03-11 11:27:27,806 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10492810/
+2025-03-11 11:27:27,806 - INFO - Extracted company name from <h1>: DAHLER Elbvororte
+2025-03-11 11:27:27,806 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10492810/
+2025-03-11 11:27:28,812 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/1057681/ (eintrag_id: 1057681)
+2025-03-11 11:27:29,019 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/1057681/
+2025-03-11 11:27:29,042 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/1057681/
+2025-03-11 11:27:29,042 - INFO - Extracted company name from <h1>: Immobilien Service Zimmermann
+2025-03-11 11:27:29,042 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/1057681/
+2025-03-11 11:27:30,043 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/1078521/ (eintrag_id: 1078521)
+2025-03-11 11:27:30,227 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/1078521/
+2025-03-11 11:27:30,248 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/1078521/
+2025-03-11 11:27:30,248 - INFO - Extracted company name from <h1>: LAUE & PARTNER Immobilienmakler
+2025-03-11 11:27:30,249 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/1078521/
+2025-03-11 11:27:31,249 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10401487/ (eintrag_id: 10401487)
+2025-03-11 11:27:31,456 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10401487/
+2025-03-11 11:27:31,480 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10401487/
+2025-03-11 11:27:31,480 - INFO - Extracted company name from <h1>: Angermann Real Estate Advisory AG
+2025-03-11 11:27:31,480 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10401487/
+2025-03-11 11:27:32,481 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455472/ (eintrag_id: 10455472)
+2025-03-11 11:27:32,879 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455472/
+2025-03-11 11:27:32,908 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455472/
+2025-03-11 11:27:32,908 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Altona
+2025-03-11 11:27:32,908 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455472/
+2025-03-11 11:27:33,909 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10312916/ (eintrag_id: 10312916)
+2025-03-11 11:27:34,175 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10312916/
+2025-03-11 11:27:34,196 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10312916/
+2025-03-11 11:27:34,196 - INFO - Extracted company name from <h1>: TBImmobilien
+2025-03-11 11:27:34,196 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10312916/
+2025-03-11 11:27:35,197 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455471/ (eintrag_id: 10455471)
+2025-03-11 11:27:35,516 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455471/
+2025-03-11 11:27:35,541 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455471/
+2025-03-11 11:27:35,542 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Poppenbüttel
+2025-03-11 11:27:35,542 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455471/
+2025-03-11 11:27:36,547 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455505/ (eintrag_id: 10455505)
+2025-03-11 11:27:37,287 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455505/
+2025-03-11 11:27:37,313 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455505/
+2025-03-11 11:27:37,313 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Lübeck
+2025-03-11 11:27:37,313 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455505/
+2025-03-11 11:27:38,315 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10357975/ (eintrag_id: 10357975)
+2025-03-11 11:27:38,563 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10357975/
+2025-03-11 11:27:38,585 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10357975/
+2025-03-11 11:27:38,585 - INFO - Extracted company name from <h1>: Anja Vollsen Immobilien Alstertal
+2025-03-11 11:27:38,585 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10357975/
+2025-03-11 11:27:39,586 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10220556/ (eintrag_id: 10220556)
+2025-03-11 11:27:39,962 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10220556/
+2025-03-11 11:27:40,005 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10220556/
+2025-03-11 11:27:40,006 - INFO - Extracted company name from <h1>: SENATOR Consult GmbH
+2025-03-11 11:27:40,006 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10220556/
+2025-03-11 11:27:41,007 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455501/ (eintrag_id: 10455501)
+2025-03-11 11:27:41,118 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455501/
+2025-03-11 11:27:41,143 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455501/
+2025-03-11 11:27:41,144 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Flensburg
+2025-03-11 11:27:41,144 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455501/
+2025-03-11 11:27:42,145 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455495/ (eintrag_id: 10455495)
+2025-03-11 11:27:42,294 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455495/
+2025-03-11 11:27:42,319 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455495/
+2025-03-11 11:27:42,319 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Wandsbek
+2025-03-11 11:27:42,320 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455495/
+2025-03-11 11:27:43,322 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10197997/ (eintrag_id: 10197997)
+2025-03-11 11:27:43,454 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10197997/
+2025-03-11 11:27:43,480 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10197997/
+2025-03-11 11:27:43,481 - INFO - Extracted company name from <h1>: Haferkamp Immobilien GmbH
+2025-03-11 11:27:43,481 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10197997/
+2025-03-11 11:27:44,481 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455485/ (eintrag_id: 10455485)
+2025-03-11 11:27:45,073 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455485/
+2025-03-11 11:27:45,100 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455485/
+2025-03-11 11:27:45,100 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Harburg
+2025-03-11 11:27:45,100 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455485/
+2025-03-11 11:27:46,101 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455497/ (eintrag_id: 10455497)
+2025-03-11 11:27:46,385 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455497/
+2025-03-11 11:27:46,410 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455497/
+2025-03-11 11:27:46,410 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Winterhude
+2025-03-11 11:27:46,410 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455497/
+2025-03-11 11:27:47,412 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/101004371/ (eintrag_id: 101004371)
+2025-03-11 11:27:47,562 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/101004371/
+2025-03-11 11:27:47,586 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/101004371/
+2025-03-11 11:27:47,587 - INFO - Extracted company name from <h1>: Hammaburg Immobilien
+2025-03-11 11:27:47,587 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/101004371/
+2025-03-11 11:27:48,590 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455469/ (eintrag_id: 10455469)
+2025-03-11 11:27:48,988 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455469/
+2025-03-11 11:27:49,014 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455469/
+2025-03-11 11:27:49,014 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Alster
+2025-03-11 11:27:49,015 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455469/
+2025-03-11 11:27:50,015 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455511/ (eintrag_id: 10455511)
+2025-03-11 11:27:50,356 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455511/
+2025-03-11 11:27:50,381 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455511/
+2025-03-11 11:27:50,382 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Norderstedt
+2025-03-11 11:27:50,382 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455511/
+2025-03-11 11:27:51,387 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455479/ (eintrag_id: 10455479)
+2025-03-11 11:27:51,658 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455479/
+2025-03-11 11:27:51,684 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455479/
+2025-03-11 11:27:51,684 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Eidelstedt
+2025-03-11 11:27:51,684 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455479/
+2025-03-11 11:27:52,685 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10137013/ (eintrag_id: 10137013)
+2025-03-11 11:27:52,790 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10137013/
+2025-03-11 11:27:52,812 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10137013/
+2025-03-11 11:27:52,812 - INFO - Extracted company name from <h1>: PriGeMa Hanseatische Immobilienberatung e.K.
+2025-03-11 11:27:52,812 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10137013/
+2025-03-11 11:27:53,818 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455509/ (eintrag_id: 10455509)
+2025-03-11 11:27:53,959 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455509/
+2025-03-11 11:27:53,985 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455509/
+2025-03-11 11:27:53,986 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Neumünster
+2025-03-11 11:27:53,986 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455509/
+2025-03-11 11:27:54,987 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455493/ (eintrag_id: 10455493)
+2025-03-11 11:27:55,095 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455493/
+2025-03-11 11:27:55,118 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455493/
+2025-03-11 11:27:55,119 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Uhlenhorst
+2025-03-11 11:27:55,119 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455493/
+2025-03-11 11:27:56,122 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/1025703/ (eintrag_id: 1025703)
+2025-03-11 11:27:56,401 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/1025703/
+2025-03-11 11:27:56,426 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/1025703/
+2025-03-11 11:27:56,426 - INFO - Extracted company name from <h1>: Gerd von der Heide Immobilien GmbH
+2025-03-11 11:27:56,426 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/1025703/
+2025-03-11 11:27:57,427 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10103283/ (eintrag_id: 10103283)
+2025-03-11 11:27:57,972 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10103283/
+2025-03-11 11:27:57,993 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10103283/
+2025-03-11 11:27:57,994 - INFO - Extracted company name from <h1>: Hörstel Immobilien GmbH (seit 1954)
+2025-03-11 11:27:57,994 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10103283/
+2025-03-11 11:27:58,995 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455507/ (eintrag_id: 10455507)
+2025-03-11 11:27:59,508 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455507/
+2025-03-11 11:27:59,533 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455507/
+2025-03-11 11:27:59,533 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Lüneburg
+2025-03-11 11:27:59,534 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455507/
+2025-03-11 11:28:00,539 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455503/ (eintrag_id: 10455503)
+2025-03-11 11:28:00,939 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455503/
+2025-03-11 11:28:00,982 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455503/
+2025-03-11 11:28:00,982 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Kiel
+2025-03-11 11:28:00,982 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455503/
+2025-03-11 11:28:01,985 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455481/ (eintrag_id: 10455481)
+2025-03-11 11:28:02,274 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455481/
+2025-03-11 11:28:02,301 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455481/
+2025-03-11 11:28:02,302 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Blankenese
+2025-03-11 11:28:02,302 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455481/
+2025-03-11 11:28:03,302 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455477/ (eintrag_id: 10455477)
+2025-03-11 11:28:03,709 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455477/
+2025-03-11 11:28:03,732 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455477/
+2025-03-11 11:28:03,732 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Bergedorf
+2025-03-11 11:28:03,732 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455477/
+2025-03-11 11:28:04,733 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10859703/ (eintrag_id: 10859703)
+2025-03-11 11:28:05,034 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10859703/
+2025-03-11 11:28:05,060 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10859703/
+2025-03-11 11:28:05,060 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Rahlstedt
+2025-03-11 11:28:05,061 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10859703/
+2025-03-11 11:28:06,061 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/101116467/ (eintrag_id: 101116467)
+2025-03-11 11:28:06,344 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/101116467/
+2025-03-11 11:28:06,363 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/101116467/
+2025-03-11 11:28:06,363 - INFO - Extracted company name from <h1>: Hanseatic Properties ELB GmbH
+2025-03-11 11:28:06,363 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/101116467/
+2025-03-11 11:28:07,369 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455475/ (eintrag_id: 10455475)
+2025-03-11 11:28:07,502 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455475/
+2025-03-11 11:28:07,527 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455475/
+2025-03-11 11:28:07,528 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Barmbek
+2025-03-11 11:28:07,528 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455475/
+2025-03-11 11:28:08,529 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455499/ (eintrag_id: 10455499)
+2025-03-11 11:28:09,132 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455499/
+2025-03-11 11:28:09,184 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455499/
+2025-03-11 11:28:09,185 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Buchholz
+2025-03-11 11:28:09,185 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455499/
+2025-03-11 11:28:10,185 - INFO - Starting extraction for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455489/ (eintrag_id: 10455489)
+2025-03-11 11:28:10,647 - INFO - Successfully fetched detail page: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455489/
+2025-03-11 11:28:10,676 - INFO - Successfully parsed JSON-LD for https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455489/
+2025-03-11 11:28:10,677 - INFO - Extracted company name from <h1>: Sparda Immobilienmakler Niendorf
+2025-03-11 11:28:10,677 - INFO - Extraction completed successfully for: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10455489/
