@@ -19,10 +19,11 @@ export class WebsiteChecker {
 
                 if (this.previousContents.has(website.url)) {
                     const previousContent = this.previousContents.get(website.url);
-                    const differences = scanForDifferences(previousContent, currentContent);
-
-                    if (differences) {
-                        this.alertChanges(website, differences);
+                    if (previousContent !== undefined) {
+                        const differences = scanForDifferences(previousContent, currentContent);
+                        if (differences) {
+                            this.alertChanges(website, differences.join('\n'));
+                        }
                     }
                 }
 
@@ -35,9 +36,9 @@ export class WebsiteChecker {
 
     private alertChanges(website: Website, differences: string): void {
         const alert: ChangeAlert = {
-            website: website.url,
-            changes: differences,
-            timestamp: new Date().toISOString(),
+            website: website,
+            changes: [differences],
+            timestamp: new Date(),
         };
         console.log('Change detected:', alert);
         // Here you can implement additional notification logic (e.g., email, SMS)

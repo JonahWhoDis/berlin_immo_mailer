@@ -382,3 +382,127 @@
 2025-03-12 08:11:46,147 - INFO - Email count: 25
 2025-03-12 08:11:46,147 - INFO - Moved hamburg@terrania.de.html to output/sent
 2025-03-12 08:11:46,147 - INFO - Reached the limit of 25 emails. Stopping the application.
+2025-03-12 10:03:51,519 - INFO - Email sent to info@moritz-von-drebber-hausmakler.de
+2025-03-12 10:03:51,551 - INFO - Email count: 1
+2025-03-12 10:03:51,552 - INFO - Moved info@moritz-von-drebber-hausmakler.de.html to output/sent
+2025-03-12 10:03:51,552 - INFO - Waiting for 1.88 minutes before processing the next email.
+2025-03-12 10:05:44,561 - INFO - Waited for 1.88 minutes.
+2025-03-12 10:05:45,665 - INFO - Email sent to bf@feuerstein-immobilien.de
+2025-03-12 10:05:45,695 - INFO - Email count: 2
+2025-03-12 10:05:45,697 - INFO - Moved bf@feuerstein-immobilien.de.html to output/sent
+2025-03-12 10:05:45,697 - INFO - Waiting for 1.53 minutes before processing the next email.
+2025-03-12 10:07:17,704 - INFO - Waited for 1.53 minutes.
+2025-03-12 10:07:18,751 - INFO - Email sent to info@simmon.de
+2025-03-12 10:07:18,770 - INFO - Email count: 3
+2025-03-12 10:07:18,770 - INFO - Moved info@simmon.de.html to output/sent
+2025-03-12 10:07:18,771 - INFO - Waiting for 1.65 minutes before processing the next email.
+2025-03-12 10:08:57,778 - INFO - Waited for 1.65 minutes.
+2025-03-12 10:08:58,699 - INFO - Email sent to info@immobilienhaus-hamburg.de
+2025-03-12 10:08:58,720 - INFO - Email count: 4
+2025-03-12 10:08:58,723 - INFO - Moved info@immobilienhaus-hamburg.de.html to output/sent
+2025-03-12 10:08:58,723 - INFO - Waiting for 1.65 minutes before processing the next email.
+2025-03-12 10:10:37,729 - INFO - Waited for 1.65 minutes.
+2025-03-12 10:10:39,065 - INFO - Email sent to hamburg@yoventi.de
+2025-03-12 10:10:39,116 - INFO - Email count: 5
+2025-03-12 10:10:39,120 - INFO - Moved hamburg@yoventi.de.html to output/sent
+2025-03-12 10:10:39,120 - INFO - Waiting for 1.47 minutes before processing the next email.
+2025-03-12 10:12:07,123 - INFO - Waited for 1.47 minutes.
+2025-03-12 10:12:08,039 - INFO - Email sent to info@grundimmo.de
+2025-03-12 10:12:08,060 - INFO - Email count: 6
+2025-03-12 10:12:08,061 - INFO - Moved info@grundimmo.de.html to output/sent
+2025-03-12 10:12:08,062 - INFO - Waiting for 1.28 minutes before processing the next email.
+2025-03-12 10:13:25,069 - INFO - Waited for 1.28 minutes.
+2025-03-12 10:13:25,968 - INFO - Email sent to info@nowak-immobilien.de
+2025-03-12 10:13:25,990 - INFO - Email count: 7
+2025-03-12 10:13:25,991 - INFO - Moved info@nowak-immobilien.de.html to output/sent
+2025-03-12 10:13:25,991 - INFO - Waiting for 1.77 minutes before processing the next email.
+2025-03-12 10:15:11,997 - INFO - Waited for 1.77 minutes.
+2025-03-12 10:15:13,304 - INFO - Email sent to info@mortensen-immobilien.de
+2025-03-12 10:15:13,362 - INFO - Email count: 8
+2025-03-12 10:15:13,363 - INFO - Moved info@mortensen-immobilien.de.html to output/sent
+2025-03-12 10:15:13,363 - INFO - Waiting for 1.97 minutes before processing the next email.
+2025-03-12 10:17:11,370 - INFO - Waited for 1.97 minutes.
+2025-03-12 10:17:13,426 - INFO - Email sent to info@abel-immo.de
+2025-03-12 10:17:13,445 - INFO - Email count: 9
+2025-03-12 10:17:13,446 - INFO - Moved info@abel-immo.de.html to output/sent
+2025-03-12 10:17:13,446 - INFO - Waiting for 1.82 minutes before processing the next email.
+2025-03-12 10:19:02,454 - INFO - Waited for 1.82 minutes.
+2025-03-12 10:19:03,502 - INFO - Email sent to hh@burschewski-immobilien.de
+2025-03-12 10:19:03,552 - INFO - Email count: 10
+2025-03-12 10:19:03,554 - INFO - Moved hh@burschewski-immobilien.de.html to output/sent
+2025-03-12 10:19:03,554 - INFO - Waiting for 1.07 minutes before processing the next email.
+2025-03-12 10:20:07,555 - INFO - Waited for 1.07 minutes.
+2025-03-12 10:20:09,845 - INFO - Email sent to info@Der-HafenCity-Makler.de
+2025-03-12 10:20:09,875 - INFO - Email count: 11
+2025-03-12 10:20:09,875 - INFO - Moved info@Der-HafenCity-Makler.de.html to output/sent
+2025-03-12 10:20:09,875 - INFO - Waiting for 1.52 minutes before processing the next email.
+2025-03-12 10:21:40,882 - INFO - Waited for 1.52 minutes.
+2025-03-12 10:21:43,236 - INFO - Email sent to info@casa100.de
+2025-03-12 10:21:43,257 - INFO - Email count: 12
+2025-03-12 10:21:43,259 - INFO - Moved info@casa100.de.html to output/sent
+2025-03-12 10:21:43,260 - INFO - Waiting for 1.47 minutes before processing the next email.
+2025-03-12 10:23:11,267 - INFO - Waited for 1.47 minutes.
+2025-03-12 10:23:12,226 - INFO - Email sent to info@radue-immobilien.de
+2025-03-12 10:23:12,258 - INFO - Email count: 13
+2025-03-12 10:23:12,260 - INFO - Moved info@radue-immobilien.de.html to output/sent
+2025-03-12 10:23:12,263 - INFO - Waiting for 1.88 minutes before processing the next email.
+2025-03-12 10:25:05,276 - INFO - Waited for 1.88 minutes.
+2025-03-12 10:25:06,201 - INFO - Email sent to info@prigema.de
+2025-03-12 10:25:06,223 - INFO - Email count: 14
+2025-03-12 10:25:06,225 - INFO - Moved info@prigema.de.html to output/sent
+2025-03-12 10:25:06,226 - INFO - Waiting for 1.95 minutes before processing the next email.
+2025-03-12 10:27:03,237 - INFO - Waited for 1.95 minutes.
+2025-03-12 10:27:04,474 - INFO - Email sent to info@sebastianhelming-immobilien.de
+2025-03-12 10:27:04,505 - INFO - Email count: 15
+2025-03-12 10:27:04,507 - INFO - Moved info@sebastianhelming-immobilien.de.html to output/sent
+2025-03-12 10:27:04,507 - INFO - Waiting for 1.03 minutes before processing the next email.
+2025-03-12 10:28:06,518 - INFO - Waited for 1.03 minutes.
+2025-03-12 10:28:07,415 - INFO - Email sent to info@happich-immobilien.de
+2025-03-12 10:28:07,436 - INFO - Email count: 16
+2025-03-12 10:28:07,437 - INFO - Moved info@happich-immobilien.de.html to output/sent
+2025-03-12 10:28:07,438 - INFO - Waiting for 1.27 minutes before processing the next email.
+2025-03-12 10:29:23,442 - INFO - Waited for 1.27 minutes.
+2025-03-12 10:29:24,333 - INFO - Email sent to info@harderundjansen.de
+2025-03-12 10:29:24,355 - INFO - Email count: 17
+2025-03-12 10:29:24,358 - INFO - Moved info@harderundjansen.de.html to output/sent
+2025-03-12 10:29:24,358 - INFO - Waiting for 1.92 minutes before processing the next email.
+2025-03-12 10:31:19,370 - INFO - Waited for 1.92 minutes.
+2025-03-12 10:31:20,276 - INFO - Email sent to info@riechert-immobilien.de
+2025-03-12 10:31:20,296 - INFO - Email count: 18
+2025-03-12 10:31:20,296 - INFO - Moved info@riechert-immobilien.de.html to output/sent
+2025-03-12 10:31:20,296 - INFO - Waiting for 1.55 minutes before processing the next email.
+2025-03-12 10:32:53,309 - INFO - Waited for 1.55 minutes.
+2025-03-12 10:32:54,182 - INFO - Email sent to info@immobilien-baumgarte.de
+2025-03-12 10:32:54,203 - INFO - Email count: 19
+2025-03-12 10:32:54,204 - INFO - Moved info@immobilien-baumgarte.de.html to output/sent
+2025-03-12 10:32:54,204 - INFO - Waiting for 1.25 minutes before processing the next email.
+2025-03-12 10:34:09,213 - INFO - Waited for 1.25 minutes.
+2025-03-12 10:34:10,266 - INFO - Email sent to info@hamburgerimmobilienteam.de
+2025-03-12 10:34:10,295 - INFO - Email count: 20
+2025-03-12 10:34:10,295 - INFO - Moved info@hamburgerimmobilienteam.de.html to output/sent
+2025-03-12 10:34:10,296 - INFO - Waiting for 1.92 minutes before processing the next email.
+2025-03-12 10:36:05,308 - INFO - Waited for 1.92 minutes.
+2025-03-12 10:36:06,214 - INFO - Email sent to info@senator-consult.de
+2025-03-12 10:36:06,234 - INFO - Email count: 21
+2025-03-12 10:36:06,236 - INFO - Moved info@senator-consult.de.html to output/sent
+2025-03-12 10:36:06,237 - INFO - Waiting for 1.22 minutes before processing the next email.
+2025-03-12 10:37:19,246 - INFO - Waited for 1.22 minutes.
+2025-03-12 10:37:20,224 - INFO - Email sent to info@ipmimmobilien.de
+2025-03-12 10:37:20,248 - INFO - Email count: 22
+2025-03-12 10:37:20,250 - INFO - Moved info@ipmimmobilien.de.html to output/sent
+2025-03-12 10:37:20,250 - INFO - Waiting for 1.22 minutes before processing the next email.
+2025-03-12 10:38:33,257 - INFO - Waited for 1.22 minutes.
+2025-03-12 10:38:34,261 - INFO - Email sent to Moin@SusannSchlatermund.de
+2025-03-12 10:38:34,283 - INFO - Email count: 23
+2025-03-12 10:38:34,284 - INFO - Moved Moin@SusannSchlatermund.de.html to output/sent
+2025-03-12 10:38:34,284 - INFO - Waiting for 1.17 minutes before processing the next email.
+2025-03-12 10:39:44,296 - INFO - Waited for 1.17 minutes.
+2025-03-12 10:39:46,455 - INFO - Email sent to anfrage@wohnenimnorden.de
+2025-03-12 10:39:46,487 - INFO - Email count: 24
+2025-03-12 10:39:46,489 - INFO - Moved anfrage@wohnenimnorden.de.html to output/sent
+2025-03-12 10:39:46,490 - INFO - Waiting for 1.90 minutes before processing the next email.
+2025-03-12 10:41:40,495 - INFO - Waited for 1.90 minutes.
+2025-03-12 10:41:41,363 - INFO - Email sent to ppi@ppimmo.de
+2025-03-12 10:41:41,382 - INFO - Email count: 25
+2025-03-12 10:41:41,383 - INFO - Moved ppi@ppimmo.de.html to output/sent
+2025-03-12 10:41:41,383 - INFO - Reached the limit of 25 emails. Stopping the application.
