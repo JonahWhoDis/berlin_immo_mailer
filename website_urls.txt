@@ -1,0 +1,138 @@
+Enter one URL per line, and optionally add tags for each URL after a space, delineated by comma (,):
+https://www.spardaimmobilien.de/kaufen/immobiliensuche?tx_spardaimmobilien_immobilien%5Bvermarktung%5D=1&tx_spardaimmobilien_immobilien%5Bvermarktung%5D=2&tx_spardaimmobilien_immobilien%5Bnutzung%5D=&tx_spardaimmobilien_immobilien%5Bobjekt%5D=&tx_spardaimmobilien_immobilien%5Bort%5D=z_213&tx_spardaimmobilien_immobilien%5Bwohnflaeche%5D=0%2C518&tx_spardaimmobilien_immobilien%5Bzimmer%5D=0%2C20&tx_spardaimmobilien_immobilien%5Bkaltmiete%5D=0%2C2990&tx_spardaimmobilien_immobilien%5Bkaufpreis%5D=0%2C1930000&tx_spardaimmobilien_immobilien%5BsortBy%5D=timeliness&tx_spardaimmobilien_immobilien%5Bdirection%5D=ASC SPARDA Immobilien GmbH
+https://www.schneiderimmo.de/mietwohnungen Axel Schneider Immobilien GmbH & Co. KG
+https://laue-partner.de/?page_id=21205#immobiliensuche?country=DEU&placeId=4675&placeSearchRadius=0&propertyTypes=1&propertyOfferType=1&priceType=0&page=1&sortField=0 LAUE & PARTNER Immobilienmakler
+https://wentzel-dr.de/immobilien/?post_type=immomakler_object&paged=1&vermarktungsart%5B%5D=miete&nutzungsart%5B%5D=wohnen&typ%5B%5D=wohnung&center=Hamburg%2C%20Deutschland&radius=5&objekt-id=&collapse=&von-qm=0.00&bis-qm=780.00&von-zimmer=0.00&bis-zimmer=29.00&von-kaltmiete=0.00&bis-kaltmiete=2800.00&von-kaufpreis=0.00&bis-kaufpreis=2700000.00 Wentzel Dr. Vertriebs GmbH
+https://www.zimmermann-ivd.de/immobilien/ Immobilien Service Zimmermann
+https://www.immodatabase.de/index.php4?cmd=searchResults&goto=1&alias=suchmaske&aktwaehrung=%80&kaufartids=2%2C3&kategorieids=100&ortnamegenau=Hamburg&flaecheKatAbhaengigMin=0.00&flaecheKatAbhaengigMax=17990.00&preisMin=2250.00&preisMax=10000000.00&zimmerMin=0.00&zimmerMax=30.00&objq%5Border_zusammen%5D=&objqorder_zusammen=#sprung_modul_suchmakse_0 SENATOR Consult GmbH
+https://www.immobilie1.de/anbieter/gerd-von-der-heide-immobilien-gmbh/immobilien Gerd von der Heide Immobilien GmbH
+https://www.prigema.de/immobilienangebote/ PriGeMa Hanseatische Immobilienberatung e.K.
+https://www.vargas-immobilien.de/unsere-angebote A. Vargas Immobilien
+https://alberteisele-immobilien.de/immobilien/ Albert Eisele Immobilien
+https://alexander-immobilienmakler.de/immobilienangebote/ Alexander GmbH
+https://www.alstertal-immo.de/immobilienangebote/ Alstertal Immobilien
+https://www.amarc21.de/immobilienangebote/?ct%5B%5D=30225&mt=rent&l%5B%5D=undefined%3B53.60337998285729%3B9.916788389263166%3B30 amarc21 Immobilien
+https://www.mewes-immobilien.de/#Angebote Arthur Th. Mewes e.K.
+https://www.asmussenimmobilien.de/immobilien/mieten/ Asmussen Immobilien
+https://assetnow.de/wohnen/?_vermarktungsart=miete&_nutzungsart=wohnen Assetnow
+https://www.aumer-immobilien.de/angebote/?mt=rent&address&sort=date%7Cdesc Aumer Immobilien
+https://www.abi-boeger.com/angebote/ A·B·I A. Böger Immobilien
+https://www.bakula-immobilien.de/objekte Bakula Immobilien
+https://www.immobilien-baumgarte.de/objekte-vermietung-1/wohnen/ Baumgarte + Fiebig GbR
+https://www.bayer-immobilien.de/wohnen-mieten/ Bayer & Partner Immobilienhandlung
+https://www.bigalke-immobilien.de/miet-und-kaufangebote/aktuelle-mietobjekte Bigalke Immobilien
+https://www.bk-realestate.com/suchergebnisse/?keyword=&offer=rent&listing-category=wohnen-de&listing-type=&country_iso3=deu&property_region=hamburg-de&property_area=&bedrooms=&bathrooms= BUCHEN & KOOB GmbH
+https://www.burschewski-immobilien.de/Immobilienangebote-in-hamburg Burschewski Immobilien
+https://www.carolin-gerken.de/vermietung/mietobjekte/ Carolin Gerken Immobilien IVD
+https://www.carsten-ploog.de/html/body_vermietung.html Carsten Ploog Immobilien
+https://casa100.de/angebote/ CASA Immobilien GmbH
+https://www.cg-makler.de/angebote/?mt=rent&address&sort=date%7Cdesc Casini & Görner Immobilien GmbH & Co. KG
+https://www.cck-immobilien.de/angebote/ CCK Immobilien GmbH
+https://www.dasilva-immobilien.com/index.php/immobilien/immobilien-suchen#/list1 da Silva Immobilien GmbH
+https://www.dammholz-immobilien.de/immobilien.html Dammholz Immobilien
+https://www.dbsimmobilien.de/immobilien/?frymo_query=%7B%22%22:%7B%22marketing_type%22:%22160%22,%22type%22:%22wohnung%22%7D%7D DBS Immobilien Dirk Sauer
+https://www.dreamhouse-immobilien.de/angebote.html#/page/1 DREAMHOUSE Immobilien GmbH & Co. KG
+https://www.dreyer-immobilien.de/wohnungen.xhtml Dreyer Immobilien e. K.
+https://www.elbemakler.hamburg/vermietung-1/ Elbemakler e.K.
+http://eliteimmogroup.com/de/immobilien/immobilien-suchen.html?land=Deutschland&art=Wohnung ELITE IMMOBILIEN
+https://www.ernatiedgen.de/vermietung#mietobjekte Erna Tiedgen KG
+https://simmon.de/miete/ ERNST SIMMON & CO.
+https://www.felber-immobilien.de/vermietung/ Felber & Felber Immobilien
+https://www.feuerstein-immobilien.de/mietangebote Feuerstein Immobilien GmbH
+https://www.flachsbarthkullick.de/Mietangebote.htm Flachsbarth & Kullick
+https://frankhoffmann-immobilien.de/immobilien/mieten/ Frank Hoffmann Immobilien GmbH & Co. KG
+https://gabriel-sohn.de/verkauf-vermietung.html#/list1 Gabriel & Sohn oHG
+https://www.gatermann-gmbh.de/ Gatermann GmbH
+https://www.gennen-team.de/immobiliendetails.xhtml?f%5B6987-11%5D=0&f%5B6987-13%5D=0&f%5B6987-12%5D=wohnung&f%5B6987-3%5D=Hamburg&f%5B6987-2%5D=miete&f%5B6987-67%5D=10000&f%5B6987-69%5D=1500000&f%5B6987-8%5D=4 Gennen & Team oHG
+https://www.mulsow.co/mietwohnungen Gerd Mulsow & Co. GmbH
+https://www.gerstel-kg.de/immobilienmakler/vermietung/wohnungen/ GERSTEL KG Immobilien-Verwaltungsgesellschaft (GmbH & Co.)
+https://grebau.de/mieten/ Grebau Immobilien GmbH
+https://www.grossmann-berger.de/wohnen/immobiliensuche/sort:distanz/dir:asc/vermarktungsart:mieten/adresse:Hamburg/umkreis:50 Grossmann & Berger Blankenese
+https://www.grothschneider.de/aktuelle-angebote/?typ%5B%5D=Wohnung&ort%5B%5D=Hamburg Grundmann Immobilien GmbH
+https://www.gustafsen.de/immobilien/wohnen/vermietungsobjekte/ GUSTAFSEN & CO
+https://gutzki-hamburg.de/vermietung/ Detlef K. Gutzki e. K.
+https://guenther-immobilien.de/angebote/ Günther & Günther GmbH
+https://hanfft.de/immobilien/vermietung.html H.-H. Hanfft Immobilien GmbH
+https://hannemann-immobilien.de/immobilien-vermarktungsart/miete/ Hannemann Immobilien
+https://www.hanseheimat.de/immobilien/?frymo_query=%7B%22%22:%7B%22marketing_type%22:%22299%22,%22type%22:%22wohnung%22%7D%7D HANSE HEIMAT Immobilien
+https://www.hansehome-immobilien.de/immobilien HANSE HOME Immobilien
+https://www.hansetor-immobilien.de/objekte/ Hansetor® Immobilien
+https://www.happich-immobilien.de/aktuelle-angebote/ Happich Immobilien
+https://grallert-immobilien.de/angebote.html Haus & Hof Immobilien
+https://www.hausmakler-sievers.de/immobilien.xhtml?sort=201-18 Hausmakler Sievers
+https://www.bayer-hamburg.de/angebote#openimmo-search-result Hausverwaltung Bayer GmbH
+https://maklerbuero-schmidt.de/immobilienangebote/ Heidrun Schmidt Haus- und Grundstücksmakler
+https://habm.de/angebote/ Heinrich A. B. Möller KG
+https://www.hfh.de/privatkunden/immobilien-zur-miete HFH Holding GmbH
+https://www.himgmbh.de/Wohnen.htm HIM Hanseatischer Immobilienmakler GmbH
+https://hir.immobilien/immobilien/miete/ HIR Hamburg International Realty GmbH
+https://www.homebase-immobilienberatung.de/suchergebnisse.xhtml?f%5B84369-9%5D=miete&f%5B84369-7%5D=wohnung&f%5B84369-13%5D=Hamburg&f%5B84369-19%5D=&f%5B84369-15%5D= Home-Base Immobilienberatung
+https://www.icon-immobilien.de/wohnimmobilien/bestand ICON IMMOBILIEN GmbH
+https://immnet.net/immobilien/ IMMNET GmbH
+https://www.immobilienjaeger.de/hamburg/immobilien/mietobjekte/mietobjekte.html Jan Jaeger Immobilien
+https://1a-immobilien-hamburg.remax.de/de/team/jan-christoph-rust/ Jan-Christoph Rust Immobilien
+https://residential.jll.de/search?tenureType=resale&keyword=Hamburg&sortBy=newestListed&sortDirection=desc&page=1 JLL - Immobilienberatung
+https://steffens-immobilien.de/de/157499-Vermietung#/list1 John Steffens Immobilien e.K.
+https://beckerimmo.de/de/99556-Wohnung-Miete#/list1 Jörn Becker Immobilien e.K.
+https://www.rousseau-immobilien.de/immobilien/mieten Karl Rousseau Immobilien GmbH
+https://www.karla-fricke.de/immobilien/mietangebote Karla Fricke Immobilien GmbH & Co. KG
+https://www.lemm-immobilien.de/angebote/ Katharina Lemm Immobilien GmbH
+https://www.king-immo.de/angebot/ King Immobilien GmbH
+https://kock-siedlung.de/hamburg/ Kock-Siedlung KG (GmbH & Co)
+https://www.kvb-hamburg.de/mieten-kaufen/ Köhler & von Bargen Immobilien OHG
+https://www.landschof-immobilien.de/immobilien/wohnimmobilien#/list1 Landschof Immobilien
+https://www.lapis-projekt.de/immobilien.xhtml LAPIS Projektentwicklung e.K.
+https://www.lbimmobilien.com/angebote/mietangebote Loch & Braunsdorf Immobilien
+https://www.lorenz-koester.de/angebote.php#/list1 Lorenz Köster Immobilien-Management GmbH & Co. KG
+https://www.fathschild.de/MIETANGEBOTE/ Lutz Fathschild
+https://www.immobilien-hamburg-lutz-winkler.de/?page_id=26 Lutz Winkler Immobilien
+https://www.luett-immobilien.com/Mietangebote.htm Lütt Immobilien
+https://www.makro-immobilien.de/immobilien-boerse/mieten/?objecttype=wohnungtypen&sortby=NON Makro Immobilien Albrecht GbR
+https://witt-immobilien.de/angebotstyp/vermietung/?proptype&location&price&size&rooms Marquardt & Noack GmbH
+https://www.martinullrich.eu/mietangebote.xhtml Martin Ullrich Immobilien
+https://www.maus-immobilien.com/immobilien/deutschland MAUS Immobilien GmbH
+https://www.md-immobilienkontor.de/immobilienangebote MD IMMOBILIENKONTOR GmbH
+https://www.meissler-co.de/suche/index.php?page=1&buy_rent=rent&region=&country=DEU&object_type=wohnung&rooms=&rooms_sleeping=&living_space=&price=&securityToken=a8845461627253ae45e3a70869f750f1 MEISSLER & CO GmbH & Co KG
+https://www.menkencompany.de/wohnungen-angebote.xhtml?f%5B91817-25%5D=wohnung&sort=91817-5 Menken + Company GmbH
+https://vonhuelse.de/hamburg Michael von Hülse Immobilien
+https://michels-co.de/angebote Michels & Co. GmbH
+https://www.monnier.de/angebote/?t=0&offertype=vermietung&proptype=0&rooms=0&location=hamburg&size=0 Monnier Immobilien GmbH
+https://mw-i.de/objekte/ MW Immobilien Stephanie Mühlenhoff
+https://www.mkk-immobilien.de/immobilien/ Müller-Klug & Krüll Immobilien GmbH & Co. KG
+https://www.nagelimmobilien.de/Immobilien#/list1 Nagel Immobilien
+https://nbi-immobilien-hamburg.de/Immobilien/Angebote/ NBI Natascha Borkowski Immobilien
+https://www.nj-immobilien.de/angebote/verkauf.html Nicole Jaeschke Immobilien GbR
+https://www.nuw-immobilien.de/cms/immobilien#/list1 Niemann & Wieczorek Immobilien OHG
+http://www.otto-lemke-immobilien.de/vermietung Otto Lemke Immobilien OHG
+https://www.ppimmo.de/immobilienangebote/vermietung-wohnen/ Peters + Peters Wohn- und Anlageimmobilien GmbH
+https://www.privatgrund.de/vermietung/mietangebote/#/list1 PRIVATGRUND Immobilien GmbH
+https://nowak-immobilien.de/vermietung Randolf Nowak Immobilien GmbH
+https://www.reschke-immobilien.de/immobilien/mieten/ Reschke Immobilien GmbH
+https://www.richardemaier.de/immobilien Richard E. Maier GmbH
+https://www.rolls-immobilien.de/gewerbe-wohnen/?objectUsage=1&sortby=ASC Rolls Immobilien Kontor GmbH
+https://www.sabori-immobilien.de/immobilienangebote/alle-angebote/?mt=rent&category=24&lat=53.550341&lng=10.000654&city=Hamburg&address=Hamburg%2C+Deutschland#immobilien Sabori Immobilien GmbH
+https://schlief-immobilien.de/verkauf/aktuelle-immobilienangebote/ Schlief + Co. Immobilien GmbH
+https://www.schmelter-company.de Schmelter & Company GmbH
+https://www.schwarzat-immobilien.de/mietwohnungen/ Schwarzat-Immobilien
+https://sewe-immobilien.de/aktuelle-immobilien-angebote/ SEWE IMMOBILIEN Hamburg
+https://bertram-immobilien.de/immobilien Silke Bertram Immobilien und Beratung
+https://www.sonnek-immobilien.de/deutsch/mieten/wohnen/ SONNEK IMMOBILIEN GMBH
+https://springfeld-oelkers.de/de/150088-Eigentumswohnungen Springfeld & Oelkers Immobilien GmbH
+https://stark-immo.com/mietangebote/ STARK IMMOBILIEN
+https://www.meinemaklerin.de/Angebote.htm Stefanie Hinsch Immobilien
+https://www.steppan-immobilien.de/mietobjekte.xhtml?f[27271-11]=miete Steppan & Co. Immobilien GmbH
+https://terrania.de/immobilien-arten/wohnung/?post_type=immomakler_object&vermarktungsart&nutzungsart&ort&center TERRANIA AG
+https://prahl-immobilien.de/wohnen Thomas Prahl
+https://friedrichsimmobilien.com/immobilien/ Tim Friedrichs Immobilien GmbH
+https://www.tudsen.de/angebote/?category=hamburg&type=flat&location= Jan H. Tudsen GmbH
+https://heitmann-immo.de/wohnungen-mieten-haeuser-mieten/ W.E. Heitmann Immobilien
+https://www.warnholz-hamburg.de/immobilien/wohnen/mieten/wohnungen WARNHOLZ Immobilien GmbH
+https://weinhardt-immobilien.de/immobilien/?post_type=immomakler_object&paged=1&vermarktungsart=miete&nutzungsart=&typ=&ort=&center=&objekt-id=&collapse=&von-qm=0.00&bis-qm=2965.00&von-zimmer=0.00&bis-zimmer=7.00&von-kaltmiete=0.00&bis-kaltmiete=8000.00 Weinhardt Immobilien
+https://weissimmobilien.com/immobilien/deutschland/hamburg/?nutzungsart%5B%5D=wohnen&regionaler_zusatz%5B%5D=&vermarktungsart%5B%5D=miete&wohnflaeche__von=&wohnflaeche__bis=&grundstuecksflaeche__von=&grundstuecksflaeche__bis=&gesamtflaeche__von=&gesamtflaeche__bis=&vermietbare_flaeche__von=&vermietbare_flaeche__bis=&kaufpreis__von=&kaufpreis__bis=&objektnr_extern= Weiss Immobilien
+https://www.werner-eisele-immobilien.de/immobilienangebote/ Werner Eisele Haus- und Grundstücksmakler GmbH
+https://www.wittlinger-co.de/angebote/angebote-private-wohnimmobilien/ Wohnen Im Norden GmbH
+https://www.wohnwerte-hamburg.de/detailsuche?tx_mhimmo_immo%5Baction%5D=list&tx_mhimmo_immo%5Bcontroller%5D=Immobilie&cHash=832d282b60705667472c2807913931ef Wohnwerte Hamburg e. K.
+https://www.wolffheim.de/immobilienangebote/wohnungen/ WOLFFHEIM & WOLFFHEIM Immobilien und Vermögensverwaltung GmbH
+https://wullkopf-eckelmann.de/immobilienangebote/ Wullkopf & Eckelmann Immobilien GmbH & Co. KG
+http://www.zander-hamburg.de Thomas Zander ZANDER-Immobilien
+https://www.zupcevic-immobilien.de/index.php4?cmd=searchResults&goto=1&alias=suchmaske&aktwaehrung=%80&kaufartids=2%2C3&kategorieids=100&ortnamegenau=&flaecheKatAbhaengigMin=25.00&flaecheKatAbhaengigMax=1665.00&preisMin=0.00&preisMax=5000000.00&zimmerMin=0.00&zimmerMax=11.00&objq%5Border_zusammen%5D=&objqorder_zusammen=#sprung_modul_suchmakse_0 Zupcevic Immobilien GmbH
