@@ -36,3 +36,5 @@ coverage/
 
 # VS Code settings
 .vscode/
+email_sender.log
+deletion_log.txt
