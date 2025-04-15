@@ -2,15 +2,13 @@ import json
 import os
 import time
 import random
-from collections import defaultdict
-
 
 # Load data from a JSON file
-with open('results.json', 'r', encoding='utf-8') as file:
+with open('cleaned.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Your full Name
-full_name = "Jonah Grosshanten"
+full_name = "Your Name"
 
 # Title of the email
 email_title = "Initiativbewerbung"
@@ -27,12 +25,12 @@ def generate_html(entry):
     else:
         form_of_address = f"Sehr geehrte Damen und Herren der {entry['companyName']}"
 
-    # Use defaultdict to prevent KeyError in case of missing placeholders
-    html_content = html_template.format_map(defaultdict(str, {
-        "formOfAddress": form_of_address,
-        "fullName": full_name,
-        "email_title": email_title
-    }))
+    # Populate the HTML template with the entry data
+    html_content = html_template.format(
+        formOfAddress=form_of_address,
+        fullName=full_name,
+        email_title=email_title,
+    )
 
     # Define the filename based on the spokesperson's name
     filename = f"{entry['email'].replace(' ', '_')}.html"
