@@ -1,4 +1,5 @@
 import os
+import json
 import logging
 
 #!/usr/bin/env python3
@@ -10,42 +11,45 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-def find_duplicates(root_folder):
-    files_by_name = {}
-    # Walk over the whole folder recursively
-    for dirpath, _, filenames in os.walk(root_folder):
-        for fname in filenames:
-            path = os.path.join(dirpath, fname)
-            files_by_name.setdefault(fname, []).append(path)
-    return files_by_name
+def remove_duplicate_entries(json_path):
+    # Load the JSON file
+    with open(json_path, 'r', encoding='utf-8') as f:
+        entries = json.load(f)
 
-def delete_duplicates(duplicates):
-    deletion_counts = {}
-    for fname, paths in duplicates.items():
-        # If there's more than one file with the same name:
-        if len(paths) > 1:
-            # Keep the first occurrence, delete the rest.
-            to_delete = paths[1:]
-            for file_path in to_delete:
-                try:
-                    os.remove(file_path)
-                    deletion_counts[fname] = deletion_counts.get(fname, 0) + 1
-                    logging.info(f"Deleted duplicate file: {file_path}")
-                except Exception as e:
-                    logging.error(f"Error deleting file {file_path}: {e}")
-    return deletion_counts
+    seen_companies = set()
+    deduped_entries = []
+    duplicates_deleted = 0
+
+    # Iterate through each entry
+    for entry in entries:
+        company = entry.get('companyName', '').strip()
+        # If companyName exists and hasn't been seen, accept it.
+        if company and company not in seen_companies:
+            seen_companies.add(company)
+            deduped_entries.append(entry)
+        # If companyName is empty, just keep the entry (or you can modify this policy)
+        elif not company:
+            deduped_entries.append(entry)
+        else:
+            duplicates_deleted += 1
+            logging.info(f"Deleted duplicate entry for company: {company}")
+
+    return deduped_entries, duplicates_deleted
 
 def main():
-    output_folder = '/output'
-    duplicates = find_duplicates(output_folder)
-    deletion_counts = delete_duplicates(duplicates)
+    json_input = 'website-monitor-app/websites.json'  # your JSON file with the list of entries
+    json_output = 'website_results_deduplicated.json'  # file that will contain deduplicated entries
+
+    deduped_entries, count = remove_duplicate_entries(json_input)
     
-    if deletion_counts:
-        print("Duplicates deleted:")
-        for fname, count in deletion_counts.items():
-            print(f"{fname}: {count} duplicate(s) removed")
+    # Write out the deduplicated JSON file
+    with open(json_output, 'w', encoding='utf-8') as f:
+        json.dump(deduped_entries, f, ensure_ascii=False, indent=4)
+    
+    if count:
+        print(f"Removed {count} duplicate entry(ies). New file created: {json_output}")
     else:
-        print("No duplicates found to delete.")
+        print("No duplicates found.")
 
 if __name__ == '__main__':
     main()
