@@ -20,7 +20,7 @@ logging.basicConfig(
 )
 
 # Save the results to a JSON file.
-RESULTS_FILE = "gelbeseiten_results_verwaltung.json"
+RESULTS_FILE = "gelbeseiten_results_verwaltung_neu.json"
 # Base URL for the listings of real estate companies in Berlin.
 BASE_URL = "https://www.gelbeseiten.de/branchen/immobilienverwaltung/berlin"
 
@@ -57,37 +57,45 @@ def scrape_listings(driver):
     """
     all_records = []
 
-    # Use a tqdm progress bar for the load more loop (limited to 5 iterations for testing).
+    # Load all available listings by clicking "Mehr Anzeigen" until it disappears
     logging.info("Beginning to load additional results with 'Mehr Anzeigen' clicks...")
     while True:
         tqdm.write("Attempting to load more results...")
         if not click_load_more(driver):
             break
 
-    # Parse the fully loaded page source using BeautifulSoup.
+    # Parse the fully loaded page
     soup = BeautifulSoup(driver.page_source, "html.parser")
-    # Find all listings by locating the header elements with the company names.
-    listings = soup.find_all("h2", class_="mod-Treffer__name")
-    logging.info(f"Found {len(listings)} listings on the page.")
+    # Each listing is wrapped in its own article.mod-Treffer container
+    cards = soup.select("article.mod-Treffer")
+    logging.info(f"Found {len(cards)} listing containers on the page.")
 
-    # Process each listing with a live progress bar.
-    for listing in tqdm(listings, desc='Processing listings'):
-        company_name = listing.get_text(strip=True)
+    # Process each card in a progress bar
+    for card in tqdm(cards, desc='Processing listings'):
+        # Company name
+        name_el = card.select_one("h2.mod-Treffer__name")
+        if not name_el:
+            continue
+        company_name = name_el.get_text(strip=True)
 
-        # Locate the website container near the company name.
-        website_div = listing.find_next("div", class_="contains-icon-big-homepage webseiteLink")
+        # Website link (base64‑encoded) within the same card
+        link_el = card.select_one(
+            "div.contains-icon-big-homepage.webseiteLink "
+            "span[data-webseitelink]"
+        )
         website = ""
-        if website_div:
-            span = website_div.find("span", attrs={"data-webseitelink": True})
-            if span:
-                encoded_link = span["data-webseitelink"]
-                try:
-                    website = base64.b64decode(encoded_link).decode("utf-8")
-                except Exception as e:
-                    logging.error(f"Error decoding website URL for '{company_name}': {e}")
+        if link_el:
+            encoded_link = link_el["data-webseitelink"]
+            try:
+                website = base64.b64decode(encoded_link).decode("utf-8")
+            except Exception as e:
+                logging.error(f"Error decoding website URL for '{company_name}': {e}")
+
         if website:
-            record = {"companyName": company_name, "website": website}
-            all_records.append(record)
+            all_records.append({
+                "companyName": company_name,
+                "website": website
+            })
             logging.info(f"Added record for: {company_name}")
         else:
             logging.info(f"Skipped '{company_name}' as no website was found.")
@@ -97,7 +105,7 @@ def scrape_listings(driver):
 def main():
     # Set up Chrome options for headless browsing.
     chrome_options = Options()
-    chrome_options.add_argument("--headless")
+    #chrome_options.add_argument("--headless")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
 
